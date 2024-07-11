@@ -8,7 +8,7 @@ const genbtn = document.querySelector(
   const updateDetails = (url, title, author) => {
     memeImage.setAttribute("src", url);
     memeTitle.innerHTML = title;
-    memeAuthor.innerHTML = `Meme by: ${author} | <a href="https://github.com/JonDoyleDev" target="_blank">Github: JonDoyleDev</a>`;
+    memeAuthor.innerHTML = `Meme by: ${author} | <a href="https://github.com/JonDoyleDev/Meme-Generator" target="_blank">Github: JonDoyleDev</a>`;
 
   };
   
