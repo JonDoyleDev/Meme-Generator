@@ -1,10 +1,10 @@
 07/10/2024 | Jon Doyle | JonDoyleDev@gmail.com 
 
 BACKGROUND: 
-Hi I'm Jon, I'm a 27 yearold aspiring software/web developer from Denver Colorado. Thank you for taking the time to check out my repo! I have been have dabbling in web development, cybersecurity, and game dev for the last couple of years, and while this has given me a versatile foundation and understanding of the technology, I haven't built enough skills in any one area to take on a junior role at this time. After taking a break from coding the last few months (due to various personal reasons) I am picking it back up with an aggressive and linear learning path, and the intent of building the skills and portfolio to land a junior dev role resonably quickly. 
+Hi I'm Jon, I'm a 27 year-old aspiring software/web developer from Denver Colorado. Thank you for taking the time to check out my repo! I have been have dabbling in web development, cybersecurity, and game dev for the last couple of years, and while this has given me a versatile foundation and understanding of the technology, I haven't built enough skills in any one area to take on a junior role at this time. After taking a break from coding the last few months (due to various personal reasons) I am picking it back up with an aggressive and linear learning path, and the intent of building the skills and portfolio to land a junior dev role reasonably quickly. 
 
 INTRO / DESCRIPTION:
-This is an extremely simple meme-generator! It was made following the link below and served as a foundational practice exercise for getting back into web development!
+This is an extremely simple meme-generator. It was made following the link below and served as a foundational practice exercise for getting back into web development.
 
 TUTORIAL LINK: https://www.youtube.com/watch?v=S0uU2vELiwA&list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm&index=5
 
